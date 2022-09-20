@@ -1,3 +1,3 @@
 # Friendlier
 
-[Website](friendlier.ca)
+[Website](https://friendlier.ca)
